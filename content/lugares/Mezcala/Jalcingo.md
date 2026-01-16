@@ -4,7 +4,7 @@ title: Jalcingo
 
 # Jalcingo
 
-Pueblo en [[lugares/Mezcala|Mezcala]], cerca del [[lugares/Salto de la Tuxpana|Salto de la Tuxpana]].
+Pueblo en [[lugares/Mezcala|Mezcala]], cerca del [[lugares/Mezcala/Salto de la Tuxpana|Salto de la Tuxpana]].
 
 ## En las obras
 

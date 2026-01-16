@@ -12,6 +12,6 @@ Viste camisola verde olivo. Lee la revista *Islas Marías*. "No era ni bajo ni a
 
 ## Apariciones
 
-### [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
+### [[capitulos/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
 
 Localiza la panadería comprando campechanas. Dispara con rifle automático y ejecuta el incendio.

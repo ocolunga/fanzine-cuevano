@@ -12,6 +12,6 @@ Viste de civil pero conserva botas de caballería. "Actúa con cautela".
 
 ## Apariciones
 
-### [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
+### [[capitulos/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
 
-Se niega a disparar: *"No. Yo aquí estoy nomás cubriendo"*. Se baja a orinar en el [[lugares/Cerro del Cazahuate|Cerro del Cazahuate]].
+Se niega a disparar: *"No. Yo aquí estoy nomás cubriendo"*. Se baja a orinar en el [[lugares/Mezcala/Cerro del Cazahuate|Cerro del Cazahuate]].

@@ -12,4 +12,4 @@ Narra la historia de [[personajes/Serafina Baladro|Serafina Baladro]] y [[person
 
 ## Capítulos
 
-1. [[capitulos/las-muertas/Las Dos Venganzas]]
+1. [[capitulos/Las Dos Venganzas]]

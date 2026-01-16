@@ -10,4 +10,4 @@ Sierra en [[lugares/Mezcala|Mezcala]].
 
 ### [[Las Muertas]]
 
-El camino serpentea por esta sierra "entre los nopales" después de la [[lugares/Cuesta del Perro|Cuesta del Perro]].
+El camino serpentea por esta sierra "entre los nopales" después de la [[lugares/Mezcala/Cuesta del Perro|Cuesta del Perro]].

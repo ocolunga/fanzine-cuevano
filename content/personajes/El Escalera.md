@@ -12,6 +12,6 @@ Hombre metódico. Maneja "encorvado sobre el volante". Usa chamarra, camina con 
 
 ## Apariciones
 
-### [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
+### [[capitulos/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
 
-Conduce el coche azul cobalto desde [[lugares/Pedrones|Pedrones]] hasta el [[lugares/Salto de la Tuxpana|Salto de la Tuxpana]]. Almuerza en [[lugares/San Andrés|San Andrés]], echa limosna en [[lugares/Jarápato|Jarápato]], extrae gasolina para el incendio.
+Conduce el coche azul cobalto desde [[lugares/Plan de Abajo/Pedrones|Pedrones]] hasta el [[lugares/Mezcala/Salto de la Tuxpana|Salto de la Tuxpana]]. Almuerza en [[lugares/Mezcala/San Andrés|San Andrés]], echa limosna en [[lugares/Mezcala/Jarápato|Jarápato]], extrae gasolina para el incendio.

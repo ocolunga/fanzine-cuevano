@@ -8,4 +8,4 @@ title: Las Muertas - Capítulos
 
 ## Capítulos
 
-1. [[capitulos/las-muertas/Las Dos Venganzas|Las Dos Venganzas]]
+1. [[capitulos/Las Dos Venganzas|Las Dos Venganzas]]

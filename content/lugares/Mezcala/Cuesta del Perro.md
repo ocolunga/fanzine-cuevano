@@ -10,4 +10,4 @@ Cuesta en el camino entre el [[lugares/Plan de Abajo|Plan de Abajo]] y [[lugares
 
 ### [[Las Muertas]]
 
-El coche azul cobalto "sube fatigado" esta cuesta al inicio del [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1]].
+El coche azul cobalto "sube fatigado" esta cuesta al inicio del [[capitulos/Las Dos Venganzas|Capítulo 1]].

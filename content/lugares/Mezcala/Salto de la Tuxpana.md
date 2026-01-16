@@ -14,4 +14,4 @@ Pueblo en el estado de [[lugares/Mezcala|Mezcala]] donde ocurre el asalto a la p
 
 ### [[Las Muertas]]
 
-Escenario del [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1]]. [[personajes/Serafina Baladro|Serafina Baladro]] y sus cómplices atacan la panadería de [[personajes/Simón Corona|Simón Corona]].
+Escenario del [[capitulos/Las Dos Venganzas|Capítulo 1]]. [[personajes/Serafina Baladro|Serafina Baladro]] y sus cómplices atacan la panadería de [[personajes/Simón Corona|Simón Corona]].

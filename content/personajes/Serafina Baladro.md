@@ -12,7 +12,7 @@ Mujer de "carácter muy difícil". Viste de negro arrugado. Tiene conexiones con
 
 ## Apariciones
 
-### [[capitulos/las-muertas/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
+### [[capitulos/Las Dos Venganzas|Capítulo 1: Las Dos Venganzas]]
 
 Lidera un grupo para vengarse de [[personajes/Simón Corona|Simón Corona]], su ex-amante que la abandonó en Acapulco. Dispara personalmente mientras dice: *"¿Ya no te acuerdas de mí, Simón Corona?"*
 

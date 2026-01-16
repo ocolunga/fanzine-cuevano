@@ -1,6 +1,15 @@
 ---
-title: Welcome to Quartz
+title: El Universo de Ibargüengoitia
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Este sitio explora el universo compartido de las novelas de Jorge Ibargüengoitia, particularmente la geografía ficticia del [[lugares/Plan de Abajo|Plan de Abajo]] y su capital [[lugares/Plan de Abajo/Cuévano|Cuévano]].
+
+## Obras
+
+- [[Las Muertas]] (1977)
+
+## Navegación
+
+- [[capitulos/index|Capítulos de Las Muertas]]
+- [[personajes/index|Personajes]]
+- [[lugares/index|Lugares]]

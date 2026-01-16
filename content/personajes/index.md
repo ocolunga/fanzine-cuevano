@@ -4,16 +4,17 @@ title: Personajes
 
 # Personajes
 
-## Las Muertas
+## [[Las Muertas]]
 
 ### Protagonistas
-- [[Serafina Baladro]]
+- [[personajes/Serafina Baladro|Serafina Baladro]]
+- [[personajes/Arcángela Baladro|Arcángela Baladro]]
 
 ### Cómplices
-- [[El Escalera]]
-- [[Valiente Nicolás]]
-- [[Capitán Bedoya]]
+- [[personajes/El Escalera|El Escalera]]
+- [[personajes/Valiente Nicolás|Valiente Nicolás]]
+- [[personajes/Capitán Bedoya|Capitán Bedoya]]
 
 ### Otros
-- [[Simón Corona]]
-- [[Eufemia Aldaco]]
+- [[personajes/Simón Corona|Simón Corona]]
+- [[personajes/Eufemia Aldaco|Eufemia Aldaco]]

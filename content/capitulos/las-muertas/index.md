@@ -2,10 +2,10 @@
 title: Las Muertas - Capítulos
 ---
 
-# Las Muertas (1977)
+# Las Muertas - Capítulos
 
-Novela basada en el caso de las Poquianchis, que narra la historia de [[Serafina Baladro]] y [[Arcángela Baladro]], dos hermanas que regenteaban prostíbulos en el ficticio estado del [[Plan de Abajo]].
+Índice de capítulos de [[Las Muertas]].
 
 ## Capítulos
 
-1. [[01-las-dos-venganzas|Las Dos Venganzas]]
+1. [[capitulos/las-muertas/Las Dos Venganzas|Las Dos Venganzas]]

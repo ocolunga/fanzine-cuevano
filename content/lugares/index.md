@@ -4,30 +4,30 @@ title: Lugares
 
 # Lugares
 
-El universo de Ibargüengoitia se desarrolla en una geografía ficticia que representa el Bajío mexicano, principalmente el estado de Guanajuato.
+El universo de Ibargüengoitia se desarrolla en una geografía ficticia que representa el Bajío mexicano.
 
 ## Estados
 
-- [[Plan de Abajo]] — Estado ficticio (Guanajuato)
-- [[Mezcala]] — Estado vecino (Jalisco)
+- [[lugares/Plan de Abajo|Plan de Abajo]] — Guanajuato
+- [[lugares/Mezcala|Mezcala]] — Jalisco
 
-## Ciudades principales
+## Ciudades
 
-- [[Cuévano]] — Capital del Plan de Abajo (Guanajuato capital)
-- [[Pedrones]] — Ciudad en el Plan de Abajo
+- [[lugares/Cuévano|Cuévano]] — Guanajuato capital
+- [[lugares/Pedrones|Pedrones]]
 
 ## Pueblos
 
-- [[Salto de la Tuxpana]]
-- [[San Andrés]]
-- [[Aquisgrán el Alto]]
-- [[Jarápato]]
-- [[Ajiles]]
-- [[San Juan del Camino]]
-- [[Jalcingo]]
+- [[lugares/Salto de la Tuxpana|Salto de la Tuxpana]]
+- [[lugares/San Andrés|San Andrés]]
+- [[lugares/Aquisgrán el Alto|Aquisgrán el Alto]]
+- [[lugares/Jarápato|Jarápato]]
+- [[lugares/Ajiles|Ajiles]]
+- [[lugares/San Juan del Camino|San Juan del Camino]]
+- [[lugares/Jalcingo|Jalcingo]]
 
 ## Geografía
 
-- [[Cuesta del Perro]]
-- [[Sierra de Güemes]]
-- [[Cerro del Cazahuate]]
+- [[lugares/Cuesta del Perro|Cuesta del Perro]]
+- [[lugares/Sierra de Güemes|Sierra de Güemes]]
+- [[lugares/Cerro del Cazahuate|Cerro del Cazahuate]]

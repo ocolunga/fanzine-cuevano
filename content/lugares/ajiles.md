@@ -1,14 +1,13 @@
 ---
 title: Ajiles
-aliases: [Ajiles]
 ---
 
 # Ajiles
 
-Pueblo en el estado de [[Mezcala]].
+Pueblo en [[lugares/Mezcala|Mezcala]].
 
 ## En las obras
 
-### Las Muertas
+### [[Las Muertas]]
 
-Aquí compran quesos durante el viaje hacia el [[Salto de la Tuxpana]].
+Aquí compran quesos durante el viaje hacia el [[lugares/Salto de la Tuxpana|Salto de la Tuxpana]].

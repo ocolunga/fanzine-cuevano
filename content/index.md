@@ -2,12 +2,11 @@
 title: El Universo de Ibargüengoitia
 ---
 
-Este sitio explora el universo compartido de las novelas de Jorge Ibargüengoitia, particularmente la geografía ficticia del **[[Plan de Abajo]]** y su capital **[[Cuévano]]**.
+Este sitio explora el universo compartido de las novelas de Jorge Ibargüengoitia, particularmente la geografía ficticia del [[lugares/Plan de Abajo|Plan de Abajo]] y su capital [[lugares/Cuévano|Cuévano]].
 
 ## Obras
 
 - [[Las Muertas]] (1977)
-- [[Estas Ruinas que Ves]] (1975)
 
 ## Navegación
 
